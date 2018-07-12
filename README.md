@@ -15,5 +15,7 @@ https://chrome.google.com/webstore/detail/zelda-anti-phishing/nlhpgkfbhlgbolngke
 The master branch pushed to the Firefox add-ons, you can view/download it here:
 https://addons.mozilla.org/en-US/firefox/addon/zelda-anti-phishing/
 
+#### To see Zelda's main source repository please visit: https://github.com/Segasec/feed
+
 #### To get more information please visit our website https://segasec.com/.
 
