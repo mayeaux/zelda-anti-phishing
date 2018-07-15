@@ -3,7 +3,7 @@
   "name": "Zelda Anti-Phishing",
   "short_name": "Zelda",
   "description": "Zelda prevent phishing sites from being displayed",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "Segasec Labs LTD",
   "background": {
     "page": "html/background.html"
