@@ -17,8 +17,8 @@ $('document').ready(function () {
 
         let reportLink = document.getElementById('report_detection');
         reportLink.href = 'mailto:support@segasec.com?subject=Request review for ' + result.url +
-            '&body=Hi,\nI found this ' + result.url + ' site was blocked because phishing issue.\n' +
-            'I believe this url is not a phishing, and asking for another review.\n';
+            '&body=Hi,\nI found this ' + result.url + ' site was blocked due to Phishing suspicion.\n' +
+            'I believe this site was wrongfully blocked, please review it again.\n';
 
         reportLink.addEventListener('click', function (event) {
             trackButtonClick('Buttons', 'click', event);

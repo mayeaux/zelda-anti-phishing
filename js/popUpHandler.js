@@ -25,7 +25,7 @@ function setLastUpdate() {
     const seconds = Math.floor((lastUpdate / 1000) % 60);
     const minutes = Math.floor((lastUpdate / 1000 / 60) % 60);
     let timeToDisplay = 'Last update: ' + minutes + ':' + (seconds < 10 ? '0' + seconds : seconds);
-    timeToDisplay += (minutes !== 0) ? +' minutes ago' : ' seconds ago';
+    timeToDisplay += (minutes !== 0) ? ' minutes ago' : ' seconds ago';
     document.getElementById('small').innerText = timeToDisplay;
 }
 
