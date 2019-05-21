@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "Zelda Anti-Phishing browser extension prevents you from interacting with known scams and phishing attacks by blocking those sites and notifying you.",
   "main": "index.js",
-  "dependencies": {
-    "eslint": "^5.1.0"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.16.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
